@@ -10,7 +10,7 @@
    3. Type `source /apps/anaconda/bin/activate cfsenv` and push Enter.
    4. Type `jupyter lab --port=1234` and push Enter.
    5. You will see something that says, "Or copy and paste one of these URLs:" and it will list 2 URLs. I tried copy and pasting the first one into my browser and JupyterLab opened.
-   6. You will see a list of folders on the left-hand side of the screen. You can keep your files wherever you want. I'm going to double-click on "Documents". You should also see a "Launcher" in the main part of the screen with "Notebook," "Console," and "Other" categories. In the "Notebook" category, click on the "cfsenv" notebook.
+   6. You will see a list of folders on the left-hand side of the screen. You can keep your files wherever you want. I'm going to double-click on "Documents".
    7. Click on my "sql_to_python.ipynb" file in GitHub and copy and paste the code to your .ipynb.
    8.  
       
